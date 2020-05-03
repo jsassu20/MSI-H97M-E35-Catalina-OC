@@ -73,7 +73,6 @@ The Hackintosh Community:
 - AppStore Purchases, iMessage, FaceTime, Instant Hotspot, Continuity, Handoff, AirDrop, iTunes Purchases, System Update, Siri, Metal, Sleep, Power Settings, Backlight Control, Touchpad Gestures (3 and 4 Finger Including Swipes) AirPort Extreme Functionality, Bluetooth, Location Services, iCloud Features are Fully supported with the proper AirPort card. Battery functioning properly thanks to hot patched files.  
 
 - Find My Mac only works with real AirPort card! If you lock the device via iCloud with a PC WiFi card (even with a supported chipset) you're gonna find    yourself in a situation you don't want to deal with. 
-    
-![](Utilities/Images/Broadcom BCM94360CD Adapter.png)
-![](Utilities/Images/Broadcom BCM94360CD Airport Card.png)
-![](Utilities/Images/Broadcom BCM94360CD Airport Together.jpg)
+
+[](https://github.com/jsassu20/MSI-H97M-E35-Catalina-OC/blob/master/Utilities/Images/Broadcom%20BCM94360CD%20Airport%20Card.png?raw=true)
+[](https://github.com/jsassu20/MSI-H97M-E35-Catalina-OC/blob/master/Utilities/Images/Broadcom%20BCM94360CD%20Adapter.png?raw=true)
