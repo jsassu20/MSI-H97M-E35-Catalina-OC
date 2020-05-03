@@ -50,10 +50,13 @@ The Hackintosh Community:
 ```  
 - Intel 4th Generation Core i5-4590 Processor
   * Quad Core CPU @ 3.0 GHz (up to 4.0 GHz with Turbo Boost) 
+
 - Hynix 16GB Memory with Dual Channel Support 
   * 2x8 DDR3 Modules @ 1600 MHz with 
+
 - Intel HD Graphics 4600 (Works OOB without any prior configuration or 3rd party kext needed)
   * 1536 MB VRAM | Full QE/CI & Metal Support 
+
 - Apple Airport WiFi & Bluetooth Card from Apples Current iMac Pros
   * Broadcom BCM94360CD Card w/ 4 Antenna Connectors
   * Best card Apple offers with their Pro systems  
