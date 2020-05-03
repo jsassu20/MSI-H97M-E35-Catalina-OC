@@ -6,7 +6,7 @@ macOS 10.15.x Catalina
 ```  
 - Intel 4th Generation Architecture (Haswell)
 - Intel HD Graphics 4600 (OOB Support)
-- Realtek ALC3887 Audio Codec (Layout-ID = 3)
+- Realtek ALC887 Audio Codec (Layout-ID = 3)
 - Intel Series 9 Chipset Family
 - macOS 10.15.x (Catalina)
 - OpenCore Configuration (Runs Awesome)
