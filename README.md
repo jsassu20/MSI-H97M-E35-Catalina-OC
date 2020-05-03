@@ -72,3 +72,4 @@ The Hackintosh Community:
 
 - Find My Mac only works with real AirPort card! If you lock the device via iCloud with a PC WiFi card (even with a supported chipset) you're gonna find    yourself in a situation you don't want to deal with. 
     
+> 1. * ##         ![](![](![](![]([]()))))
