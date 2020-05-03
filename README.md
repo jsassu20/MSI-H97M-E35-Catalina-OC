@@ -25,7 +25,7 @@ macOS 10.15.x Catalina
       - Green to Green (Green to Yellow if one cable has no green wire)     
 - All native macOS Catalina features work as long as you upgrade the WiFi card to a supported configuration
 ```
-
+![](Utilities/Images/MSI-H97M-E35-USB-Ports.png)
 #
 
 ### PayPal
@@ -74,4 +74,6 @@ The Hackintosh Community:
 
 - Find My Mac only works with real AirPort card! If you lock the device via iCloud with a PC WiFi card (even with a supported chipset) you're gonna find    yourself in a situation you don't want to deal with. 
     
-> 1. * ##         ![](![](![](![]([]()))))
+![](Utilities/Images/Broadcom BCM94360CD Adapter.png)
+![](Utilities/Images/Broadcom BCM94360CD Airport Card.png)
+![](Utilities/Images/Broadcom BCM94360CD Airport Together.jpg)
