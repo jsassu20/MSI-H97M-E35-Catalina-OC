@@ -11,11 +11,12 @@ macOS 10.15.x Catalina
 - macOS 10.15.x (Catalina)
 - OpenCore Configuration (Runs Awesome)
 - AirPort AC WiFi 1.3Gb/s (Broadcom BCM94360CD) * 
-  - WiFi requires a PCIe x2 adapter with Apple's proprietary 12+6 pin port.
-  - Bluetooth requires a USB 2 motherboard header (or a free USB 2 port if you modify the included cable)
-    - Included cable is a standard 4 pin USB 2.0 cable with a MB header plug
-    - Cut off the header and Splice in a male USB 2.0 plug from any USB cable
-    - Just solder the 4 colored wires on both cables to eachother  
+  - PCIe x2 adapter with Apple's proprietary 12+6 pin port is required.
+  - Bluetooth functionality uses the motherboards internal USB hub which needs to connect to a 9 pin USB 2.0 header on the motherboard.
+  - The cable can be modified to work with any available USB port if no header exists 
+    * Included cable is a standard 4 pin USB 2.0 cable with a MB header plug
+    * Cut off the header and Splice in a male USB 2.0 plug from any USB cable
+    * Just solder the 4 colored wires on both cables to eachother  
       - Red to Red
       - Black to Black 
       - White to White 
@@ -38,22 +39,6 @@ macOS 10.15.x Catalina
 #
 
 ## Credits
-
-RehabMan:
-
-- For a number of different parts of this configuration which have made this build possible including his USBInjectAll.kext configuration, SSDT-DEH01 for disabling the EH01 device and allowing all USB traffic on the XHC device, VoodooPS2Controller.kext which provides a perfect configuration for TouchPad functionality along with SSDT-VPS2 which is based on his SSDT-PS2K Hot Patched file, SSDT-UIAC for providing a template to configure proper USB injection, and a number of other SSDT Hot Patches present in the dsl folder which can be used to configure a number of different situations. RehabMan is an absolute genius when it comes to Hackintosh configurations in the community and I owe the knowledge I've managed to gain over the last year to his tireless efforts and guides in the community.
-
-JcSnider:
-
-- For providing me with an excellent build in the for of his Lenovo ThinkPad X1 Carbon Generation 3 Build which has been the basis of this Hot Patched configuration. A number of the Hot Patched files present in this build come directly from his X1 Carbon configuration and it has been the main reason why I've been able to adapt a build for us T450 users so please thank him for his outstanding work!
-
-AcidAnthera:
-
-- For Lilu.kext and all of the included Lilu Plugins which have made countless configurations possible among a plethora of Hackintosh machines! AcidAnther is a genius coder and developer and without his hard work and effort we would not be able to create the sheer number of hackintosh configurations with universal kexts like we have the ability to do now thanks to his/her development.
-
-Snikii:
-
-- For a number of his Hot Patched files which inspired a lot of the files I've been able to adapt. For his contribution to ThinPad hackintosh configurations which I've used for inspiration. For his install guides on Tonymacx86.com which I've used to learn countless amounts of info from in adapting this configuration. 
 
 The Hackintosh Community:
 
